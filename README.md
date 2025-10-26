@@ -19,8 +19,7 @@ Make sure to install these frameworks
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/poosatharun/Alphabetical-sign-language-detection.git
-cd Alphabetical-sign-language-detection
+https://github.com/Gopi777227/Alphabetical-sign-Language
 ```
 
 ### 2. Install Dependencies
